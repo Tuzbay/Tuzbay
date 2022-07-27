@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Tuzbay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tunay Uzbay YELCE.
+- 🌱 I’m currently learning JavaScript and React.
 - 📫 How to reach me t.uzbayyelce@gmail.com
 
 <!---
