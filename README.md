@@ -1,5 +1,5 @@
 <h1 align=center> Hi there, I’m Tunay Uzbay YELCE 👋 </h1> 
-<h3 align=center> I am a Frontend Developer. I’m currently learning Redux and TypeScript. </h3>
+<h3 align=center> I am a Frontend Developer. I’m currently learning Redux and React Native. </h3>
 <h5 align=center> 📫 How to reach me t.uzbayyelce@gmail.com </h5>  
 <h5 align=center> 📍 Currently base at: Istanbul, Turkey </h5>
 
